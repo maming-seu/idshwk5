@@ -24,6 +24,3 @@ for line in f1:
     f2.write("nodga\n")
 f1.close()
 f2.close()
-f1=open("result.txt","r")
-for line in f1:
-    print(line)
