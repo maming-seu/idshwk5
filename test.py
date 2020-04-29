@@ -16,7 +16,7 @@ class Domain:#训练数据类
         if self.label == "dga":
             return "dga"
         else:
-            return "notdga"
+            return "nodga"
 
 
 
